@@ -1,0 +1,3 @@
+D:/projects/programming/games/c++/3D game in cpp try 3/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
+D:/projects/programming/games/c++/3D game in cpp try 3/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
+D:/projects/programming/games/c++/3D game in cpp try 3/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir

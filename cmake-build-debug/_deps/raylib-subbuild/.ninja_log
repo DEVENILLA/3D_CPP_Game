@@ -1,0 +1,21 @@
+# ninja log v5
+1	79	7291620789415889	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	23d988f4064dc76d
+79	20603	7291620994645473	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	df576133ce8ae411
+1	79	7291620789415889	D:/projects/programming/games/c++/3D game in cpp try 3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	23d988f4064dc76d
+79	20603	7291620994645473	D:/projects/programming/games/c++/3D game in cpp try 3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	df576133ce8ae411
+20603	20691	7291620995528738	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	725d30c6d3d48743
+20603	20691	7291620995528738	D:/projects/programming/games/c++/3D game in cpp try 3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	725d30c6d3d48743
+20692	20865	7291620996290515	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	875880451e1ced70
+20692	20865	7291620996290515	D:/projects/programming/games/c++/3D game in cpp try 3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	875880451e1ced70
+20865	20946	7291620998066647	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	45d28300870cb72b
+20865	20946	7291620998066647	D:/projects/programming/games/c++/3D game in cpp try 3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	45d28300870cb72b
+20946	21038	7291620998998000	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	a86718892816e371
+20946	21038	7291620998998000	D:/projects/programming/games/c++/3D game in cpp try 3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	a86718892816e371
+21039	21109	7291620999691204	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	5d0803f812db1620
+21039	21109	7291620999691204	D:/projects/programming/games/c++/3D game in cpp try 3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	5d0803f812db1620
+21109	21175	7291621000368649	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	eb5a9b2f769c350e
+21109	21175	7291621000368649	D:/projects/programming/games/c++/3D game in cpp try 3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	eb5a9b2f769c350e
+21175	21290	7291621001517657	CMakeFiles/raylib-populate-complete	1ef208a58717b9be
+21175	21290	7291621001517657	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	1ef208a58717b9be
+21175	21290	7291621001517657	D:/projects/programming/games/c++/3D game in cpp try 3/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	1ef208a58717b9be
+21175	21290	7291621001517657	D:/projects/programming/games/c++/3D game in cpp try 3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	1ef208a58717b9be
